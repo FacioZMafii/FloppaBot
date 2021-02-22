@@ -1,1 +1,1 @@
-[null,{"name":"Deleted Message","temp":"message","event-type":"18","_id":"kbLSt","actions":[{"title":"Message Deleted","author":"","color":"","timestamp":"false","url":"","authorIcon":"","imageUrl":"","thumbUrl":"","storage":"1","varName":"embed","name":"Create Embed Message"},{"storage":"1","varName":"embed","message":"${tempVars(\"message\")}","name":"Set Embed Description"}]}]
+[null]
